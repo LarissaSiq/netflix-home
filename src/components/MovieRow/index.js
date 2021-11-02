@@ -34,11 +34,9 @@ export function MovieRow({
                 }} />
             </div>
             <div className="movieRow--right" onClick={handleRightArrow}>
-
                 <NavigateNextIcon style={{
                     fontSize: 50
                 }} />
-                asdsa
             </div>
             <div className="movieRow--listarea">
                 <div className="movieRow--list" style={{
