@@ -1,12 +1,13 @@
 # Netflix Home
 Clone da interface da página da home da Netflix, web e responsiva, feita em React e com o uso de uma API rest.
-![image](https://user-images.githubusercontent.com/64505863/139770177-3db6545d-ccb2-4f0b-b31b-debebb66a508.png)
+![gif netflix home](https://user-images.githubusercontent.com/64505863/139781780-40f438ad-5efa-44fb-b953-e3b6afe0e7bb.gif)
 
-## Link da API utilizada:
+### Links
+* API utilizada:
 [TMDB](https://www.themoviedb.org/?language=pt-BR)
-## Link para a aplicação:
+* Aplicação:
 [Netflix Home](https://larissasiq.github.io/netflix-home/)
-## Feito por:
-* [Larissa Siqueira](https://github.com/LarissaSiq)
+## :woman_technologist: Feito por:
+[Larissa Siqueira](https://github.com/LarissaSiq)
 
 
