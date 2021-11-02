@@ -27,7 +27,10 @@
     }
 }
 
-@media(max-width: 300px) {
+@media(max-width: 320px) {
+    .featured {
+        height: 100vh;
+    }
 
     .featured--watch,
     .featured--list {
