@@ -12,8 +12,8 @@ export function FeaturedMovie({
     }
 
     let description = item.overview;
-    if (description.length > 300) {
-        description = description.substring(0, 300) + '...'
+    if (description.length > 255) {
+        description = description.substring(0, 255) + '...'
     }
 
     return (
